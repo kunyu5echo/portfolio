@@ -13,7 +13,7 @@ const PROJECTS = [
         role: "Solo Builder (Product & Dev)",
         period: "2025.06 - 至今",
         iconSrc: "/EnerChi/enerchi-icon.png",
-        mediaSrc: "/EnerChi/EnerChi.mp4",
+        mediaSrc: "https://pub-0b2f80bd6e9947eb8fa116149921774e.r2.dev/EnerChi.mp4",
         mediaType: "video",
         tech: ["Vibe Coding", "Web Development", "Reddit Growth", "0 to 1"],
         whatIDid: [
@@ -44,7 +44,7 @@ const PROJECTS = [
         role: "Product & Market Operation",
         period: "2024.06 - 2025.05",
         iconSrc: "/BizBoom/BizBoom_logo_cropped.png",
-        mediaSrc: "/BizBoom/BizBoom.ai General Tutorial.mov",
+        mediaSrc: "https://pub-0b2f80bd6e9947eb8fa116149921774e.r2.dev/BizBoom.ai%20General%20Tutorial.mov",
         mediaType: "video",
         tech: ["B2B SaaS", "Google SEO/SEM", "Email Marketing", "User Research"],
         whatIDid: [
